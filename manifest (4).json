@@ -1,0 +1,15 @@
+{
+  "name": "كنيسة الأنبا أنطونيوس",
+  "short_name": "كنيسة الأنبا أنطونيوس",
+  "start_url": "https://kerolos-sameh712.github.io/-Khedmety_firebase-/",
+  "display": "standalone",
+  "background_color": "#f6f0e2",
+  "theme_color": "#0f1c45",
+  "icons": [
+    {
+      "src": "data:[omitted-by-pwabuilder]",
+      "sizes": "240x240",
+      "type": "image/jpeg"
+    }
+  ]
+}
