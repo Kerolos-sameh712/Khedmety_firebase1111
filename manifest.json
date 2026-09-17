@@ -1,0 +1,18 @@
+{
+  "name": "خدمه مدارس الاحد",
+  "short_name": "Jesus",
+  "start_url": "https://kerolos-sameh712.github.io/-Khedmety_firebase-/",
+  "display": "standalone",
+  "background_color": "#959473",
+  "theme_color": "#aa4646",
+  "icons": [
+    {
+      "src": "data:[omitted-by-pwabuilder]",
+      "sizes": "240x240",
+      "type": "image/jpeg"
+    }
+  ],
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait"
+}
